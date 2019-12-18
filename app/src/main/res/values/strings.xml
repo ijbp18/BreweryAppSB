@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Drink Point</string>
+    <string name="app_name_title">Cervecerías</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Drink Point</string>
+    <string name="nav_header_subtitle">Desarrollado por IJBP</string>
+    <string name="nav_header_description">Prueba técnica solicitada por Sunbelt.</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="nearby_brewery">Buscar Pubs</string>
+    <string name="menu_fav">Favoritos</string>
+    <string name="exit">Exit</string>
+    <string name="search">Buscar</string>
+    <string name="regresar">Regresar</string>
+    <string name="description">Descripción</string>
+    <string name="not_found_search">Búsqueda sin resultados</string>
+    <string name="network_error">Error de conexión</string>
+    <string name="server_error">Error del servidor</string>
+    <string name="failed_search">Falló la búsqueda</string>
+    <string name="salir">Salir</string>
+    <string name="message_exit">¿Desea salir de la aplicación?</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="no_city">No City</string>
+    <string name="no_state">No State</string>
+    <string name="type">Type</string>
+    <string name="url_invalidate">No es una URL válida</string>
+    <string name="no_browser">No tienes un navegador instalado para abrir esta página</string>
+
+    <string-array name="image_url">
+        <item>https://source.unsplash.com/uT9TuNtLjlQ/600x480</item>
+        <item>https://source.unsplash.com/8TWkZwUMMXM/600x480</item>
+        <item>https://source.unsplash.com/iFM9asTsWSQ/600x480</item>
+        <item>https://source.unsplash.com/pi_6nTmUrgc/600x480</item>
+        <item>https://source.unsplash.com/XqeGlXLrDJY/600x480</item>
+        <item>https://source.unsplash.com/BK500aHbM20/600x480</item>
+        <item>https://source.unsplash.com/Eektt7p05Do/600x480</item>
+        <item>https://source.unsplash.com/IEk05I-Is5A/600x480</item>
+        <item>https://source.unsplash.com/N6GCnWtbyxw/600x480</item>
+        <item>https://source.unsplash.com/ceuXFBrb3zA/360x480</item>
+    </string-array>
+</resources>
